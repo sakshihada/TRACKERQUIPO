@@ -11,5 +11,5 @@ You can search any currency you like and get info about it.
 
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/73050095/122707755-a4c79480-d228-11eb-8645-0eb25c6003a4.png)
-The price change is shown in percent and if it is negative it will be red and if it is positive it will be displayed in green.
+The price change is shown in percent and if it is negative it will be red and if it is positive it will be displayed in green..
 
