@@ -1,6 +1,6 @@
 # TRACKERQUIPO
 Cryptocurrency Tracker.
-website created using react and next js to track cryptocurrency change.
+website created using react and next js to track cryptocurrency change..
 
 
 ![Screenshot (146)](https://user-images.githubusercontent.com/73050095/122707621-603bf900-d228-11eb-9ede-336fa52e979f.png)
